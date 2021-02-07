@@ -3,7 +3,6 @@
 2. All in one script(rewrote excel parse used to parse raw cases data)
 3. One upload and a POST request
 4. Improved code quality
-for more information, go to [repository](https://github.com/CrisZong/AUM)
 
 ## Architecture
 ![alt text](aum.png)
